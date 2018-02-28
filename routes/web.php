@@ -23,3 +23,4 @@ Route::get('/register',  'RegistrationController@create');
 
 Route::post('/register', 'RegistrationController@store');
     
+//Route::post('/register2', 'RegistrationController@store');
